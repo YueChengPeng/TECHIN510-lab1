@@ -1,0 +1,28 @@
+# TECHIN 510 Lab 1
+
+A personal website for TECHIN 510 Lab 1.
+
+## Getting Started
+
+Open the terminal and run the following commands:
+
+```
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+## What's Included
+
+- `app.py`: The main streamlit application
+
+## Lessons Learned
+
+- Use Streamlit Framework to create a simple personal website
+- Use .gitignore to efficiently upload Python projects to GitHub (ignore the Virtual Environment)
+- Learned that hybrid of Markdown syntax and HTML can be used in `st.markdown()` command
+
+## Questions / Uncertainties
+
+- What if I want to make the profile picture round?
+- How to use a two column layout?
